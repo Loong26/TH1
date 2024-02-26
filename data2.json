@@ -1,0 +1,105 @@
+{
+    "cau_hoi": [
+      {
+        "noi_dung": "Ai là người đầu tiên đặt chân lên mặt trăng?",
+        "dap_an": [
+          "Neil Armstrong",
+          "Buzz Aldrin",
+          "Yuri Gagarin",
+          "John F. Kennedy"
+        ],
+        "dap_an_dung": "Neil Armstrong"
+      },
+      {
+        "noi_dung": "Thành phố nào được gọi là Thủ đô của nước Pháp?",
+        "dap_an": [
+          "Lyon",
+          "Marseille",
+          "Paris",
+          "Nice"
+        ],
+        "dap_an_dung": "Paris"
+      },
+      {
+        "noi_dung": "Quốc gia nào được biết đến với tên gọi 'Đất nước mặt trời mọc'?",
+        "dap_an": [
+          "Nhật Bản",
+          "Hàn Quốc",
+          "Trung Quốc",
+          "Việt Nam"
+        ],
+        "dap_an_dung": "Nhật Bản"
+      },
+      {
+        "noi_dung": "Ai là tác giả của cuốn sách 'Chúa không tạo ra kỳ diệu'?",
+        "dap_an": [
+          "Stephen Hawking",
+          "Richard Dawkins",
+          "Carl Sagan",
+          "Albert Einstein"
+        ],
+        "dap_an_dung": "Richard Dawkins"
+      },
+      {
+        "noi_dung": "Loài động vật nào được biết đến với tên gọi 'Hổ vằn'?",
+        "dap_an": [
+          "Hà mã",
+          "Tê giác",
+          "Sư tử",
+          "Hổ"
+        ],
+        "dap_an_dung": "Sư tử"
+      },
+      {
+        "noi_dung": "Nhà tư tưởng nào được coi là 'cha đẻ' của lý thuyết tương đối?",
+        "dap_an": [
+          "Albert Einstein",
+          "Isaac Newton",
+          "Galileo Galilei",
+          "Stephen Hawking"
+        ],
+        "dap_an_dung": "Albert Einstein"
+      },
+      {
+        "noi_dung": "Thành phố nào được biết đến với tên gọi 'Thành phố hoa lệ'?",
+        "dap_an": [
+          "Rome",
+          "Venice",
+          "Florence",
+          "Milan"
+        ],
+        "dap_an_dung": "Venice"
+      },
+      {
+        "noi_dung": "Nhân vật lịch sử nào được gọi là 'Vua của những kẻ ngu dốt'?",
+        "dap_an": [
+          "Louis XIV",
+          "Henry VIII",
+          "Ivan IV",
+          "Charles II"
+        ],
+        "dap_an_dung": "Louis XIV"
+      },
+      {
+        "noi_dung": "Trong bộ môn cầu lông, điểm số tối đa mỗi game là bao nhiêu?",
+        "dap_an": [
+          "10",
+          "15",
+          "20",
+          "21"
+        ],
+        "dap_an_dung": "21"
+      },
+      {
+        "noi_dung": "Ai là người sáng lập ra Microsoft?",
+        "dap_an": [
+          "Steve Jobs",
+          "Mark Zuckerberg",
+          "Bill Gates",
+          "Larry Page"
+        ],
+        "dap_an_dung": "Bill Gates"
+      }
+    ]
+  }
+  

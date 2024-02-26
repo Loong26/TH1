@@ -1,0 +1,105 @@
+{
+    "cau_hoi": [
+      {
+        "noi_dung": "Những ngôn ngữ lập trình nào làm cho trình duyệt hiểu được?",
+        "dap_an": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP"
+        ],
+        "dap_an_dung": ["HTML", "CSS", "JavaScript"]
+      },
+      {
+        "noi_dung": "Câu lệnh nào được sử dụng để khai báo biến trong JavaScript?",
+        "dap_an": [
+          "var",
+          "int",
+          "string",
+          "const"
+        ],
+        "dap_an_dung": ["var", "const"]
+      },
+      {
+        "noi_dung": "Trong CSS, thuộc tính nào được sử dụng để thay đổi màu nền của một phần tử?",
+        "dap_an": [
+          "background-color",
+          "color",
+          "font-size",
+          "border"
+        ],
+        "dap_an_dung": ["background-color"]
+      },
+      {
+        "noi_dung": "Câu lệnh nào sau đây là câu lệnh điều kiện trong JavaScript?",
+        "dap_an": [
+          "for",
+          "while",
+          "if",
+          "switch"
+        ],
+        "dap_an_dung": ["if", "switch"]
+      },
+      {
+        "noi_dung": "Ngôn ngữ lập trình nào được sử dụng phổ biến trong việc phát triển ứng dụng di động?",
+        "dap_an": [
+          "Java",
+          "Python",
+          "Swift",
+          "C#"
+        ],
+        "dap_an_dung": ["Java", "Swift"]
+      },
+      {
+        "noi_dung": "Ai là người sáng lập ra Facebook?",
+        "dap_an": [
+          "Bill Gates",
+          "Steve Jobs",
+          "Mark Zuckerberg",
+          "Jeff Bezos"
+        ],
+        "dap_an_dung": ["Mark Zuckerberg"]
+      },
+      {
+        "noi_dung": "Ngày nào được coi là 'Ngày Quốc tế Phụ nữ'?",
+        "dap_an": [
+          "8/3",
+          "20/10",
+          "20/11",
+          "1/5"
+        ],
+        "dap_an_dung": ["8/3"]
+      },
+      {
+        "noi_dung": "Câu nào sau đây là một loại hình dữ liệu trong Python?",
+        "dap_an": [
+          "list",
+          "array",
+          "tuple",
+          "dictionary"
+        ],
+        "dap_an_dung": ["list", "tuple", "dictionary"]
+      },
+      {
+        "noi_dung": "Núi cao nhất thế giới là?",
+        "dap_an": [
+          "Núi Everest",
+          "Núi Kilimanjaro",
+          "Núi Fuji",
+          "Núi McKinley"
+        ],
+        "dap_an_dung": ["Núi Everest"]
+      },
+      {
+        "noi_dung": "Thủ đô của nước Ý là?",
+        "dap_an": [
+          "Rome",
+          "Milan",
+          "Venice",
+          "Florence"
+        ],
+        "dap_an_dung": ["Rome"]
+      }
+    ]
+  }
+  

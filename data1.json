@@ -1,0 +1,45 @@
+{
+    "cau_hoi": [
+      {
+        "noi_dung": "Nước ta có 54 dân tộc anh em.",
+        "dap_an": "dung"
+      },
+      {
+        "noi_dung": "Sông Nile là con sông dài nhất châu Phi.",
+        "dap_an": "dung"
+      },
+      {
+        "noi_dung": "Mặt trời quay quanh Trái đất.",
+        "dap_an": "sai"
+      },
+      {
+        "noi_dung": "Con người có 6 giác quan.",
+        "dap_an": "sai"
+      },
+      {
+        "noi_dung": "Sao Hỏa là hành tinh nóng nhất trong hệ Mặt trời.",
+        "dap_an": "sai"
+      },
+      {
+        "noi_dung": "Nước sôi ở nhiệt độ 100°C.",
+        "dap_an": "dung"
+      },
+      {
+        "noi_dung": "Kim tự tháp Giza là công trình kiến trúc cổ nhất trong Bảy Kỳ quan Thế giới Cổ đại.",
+        "dap_an": "dung"
+      },
+      {
+        "noi_dung": "Vũ trụ có hình dạng hình vuông.",
+        "dap_an": "sai"
+      },
+      {
+        "noi_dung": "Động vật ăn thịt chỉ ăn thịt động vật khác.",
+        "dap_an": "sai"
+      },
+      {
+        "noi_dung": "Kim loại nặng có thể gây hại cho môi trường.",
+        "dap_an": "dung"
+      }
+    ]
+  }
+  
