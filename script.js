@@ -1,5 +1,5 @@
 // JavaScript để lấy dữ liệu từ file data.json và hiển thị câu hỏi
-var data1;
+
 function startTest() {
     var fullname = document.getElementById('fullname').value;
     var dob = document.getElementById('dob').value;
@@ -15,7 +15,6 @@ function startTest() {
             fetch('data1.json')
                 .then(response => response.json())
                 .then(data => {
-                    data1 = data;
                     // hiển thị câu hỏi
                     let test = document.getElementById('test');
                     test.style.display = 'block';
@@ -34,7 +33,6 @@ function startTest() {
             fetch('data2.json')
             .then(response => response.json())
             .then(data => {
-                
                 let test = document.getElementById('test');
                 test.style.display = 'block';
                 let questions = data.cau_hoi;
@@ -89,40 +87,3 @@ function startTest() {
             
     }
 
-function check_answer() {
-// log ra màn hình "hello"
-    let score = 0; 
-    calculateScoreData1();
-}
-function calculateScoreData1() {
-    // Lấy danh sách các phần tử input radio
-    var radioInputs = document.querySelectorAll('input[type="radio"]');
-    
-    var score = 0;
-
-    // Lặp qua từng phần tử input radio
-    radioInputs.forEach(function(input) {
-        // Lấy tên của câu hỏi
-        var questionName = input.getAttribute('name');
-        
-        // Lấy giá trị của input radio (dung hoặc sai)
-        var answer = input.value;
-
-        // Lấy index của câu hỏi trong data1
-        var questionIndex = parseInt(questionName.replace('question', ''), 10);
-
-        // Lấy đáp án đúng từ data1.json dựa trên index của câu hỏi
-        var correctAnswer = data1.cau_hoi[questionIndex].dap_an;
-        // in ra màn hình nội dung câu hỏi và đáp ánh đúng
-        console.log('Câu hỏi: ' + data1.cau_hoi[questionIndex].noi_dung);
-        console.log('Đáp án đúng: ' + correctAnswer);
-        console.log('Đáp án của bạn: ' + answer);
-        // So sánh câu trả lời với đáp án đúng và cộng điểm nếu đúng
-        if (answer === correctAnswer) {
-            score++;
-        }
-    });
-
-    // Hiển thị điểm số
-    alert('Điểm của bạn: ' + score);
-}
